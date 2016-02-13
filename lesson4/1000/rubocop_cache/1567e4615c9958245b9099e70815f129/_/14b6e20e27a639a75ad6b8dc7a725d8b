@@ -1,0 +1,1 @@
+[{"severity":"convention","location":{"begin_pos":383,"end_pos":386},"message":"Assignment Branch Condition size for display_board is too high. [24/18]","cop_name":"Metrics/AbcSize","status":"unsupported"},{"severity":"convention","location":{"begin_pos":2544,"end_pos":2544},"message":"Final newline missing.","cop_name":"Style/TrailingBlankLines","status":"uncorrected"}]
